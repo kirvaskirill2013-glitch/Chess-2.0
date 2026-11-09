@@ -5,7 +5,7 @@ package.domain = org.example
 source.dir = .
 source.include_exts = py,json,txt
 version = 2.0
-requirements = python3,kivy,python-chess
+requirements = python3,kivy==2.3.0,python-chess
 orientation = portrait
 fullscreen = 0
 
